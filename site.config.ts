@@ -17,6 +17,7 @@ export default siteConfig({
   description: '',
 
   // social usernames (optional)
+  twitter:'null',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
