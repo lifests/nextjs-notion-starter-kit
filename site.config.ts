@@ -19,7 +19,8 @@ export default siteConfig({
   // social usernames (optional)
   email: 'junjie@lifests.com'，
   twitter: 'null',
-  Facebook: 'null',
+  facebook: 'null',
+  newsletter: 'lala',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
