@@ -17,6 +17,7 @@ export default siteConfig({
   description: '',
 
   // social usernames (optional)
+  email: 'junjie@lifests.com'
   twitter:'null',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
