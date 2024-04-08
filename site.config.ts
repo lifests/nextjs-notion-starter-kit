@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: '',
   domain: '',
-  author: '',
+  author: 'Travis Fischer',
 
   // open graph metadata (optional)
   description: '',
