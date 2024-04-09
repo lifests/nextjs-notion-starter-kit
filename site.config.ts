@@ -20,7 +20,7 @@ export default siteConfig({
   twitter: 'null',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
-  newsletter: 'com',
+  email: 'junjie@lifests.com',
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
